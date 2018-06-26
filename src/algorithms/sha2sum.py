@@ -1,6 +1,6 @@
-print('in sha256sum.py')
-
 from hashlib import sha256
+
+print('in sha256sum.py')
 
 
 

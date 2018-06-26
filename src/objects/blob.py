@@ -1,6 +1,8 @@
+from object import Object
+
 print('in blob.py')
 
-from object import Object
+
 
 #hashlib.sha1("").hexdigest()
 
