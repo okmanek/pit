@@ -1,0 +1,5 @@
+DEBUG 2018-06-28 21:48:22,646 - debug test
+INFO 2018-06-28 21:48:22,646 - info test
+WARNING 2018-06-28 21:48:22,646 - warning test
+ERROR 2018-06-28 21:48:22,646 - error test
+CRITICAL 2018-06-28 21:48:22,646 - critical test
